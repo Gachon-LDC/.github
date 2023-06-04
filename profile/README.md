@@ -11,8 +11,8 @@
 | 장윤영 | [jangyyoung](https://github.com/jangyyoung) | AI                  |
 
 # Documents
-
--   [develop plan](../plan.md)
+-   [Document](https://github.com/Gachon-LDC/.github/wiki)
+-   [develop plan](https://github.com/Gachon-LDC/.github/wiki/plan)
 -   [Backend](https://github.com/Gachon-LDC/Back-End/wiki)
 -   [Frontend](https://github.com/Gachon-LDC/front_end/wiki)
 
