@@ -13,6 +13,7 @@
 
 # Documents
 
+-   [Document](https://github.com/Gachon-LDC/.github/wiki)
 -   [develop plan](https://github.com/Gachon-LDC/.github/wiki/plan)
 -   [Backend](https://github.com/Gachon-LDC/.github/wiki/doc_backend)
 -   [Frontend](https://github.com/Gachon-LDC/.github/wiki/doc_frontend)
