@@ -1,6 +1,4 @@
-# Name of our project
-
--   LDC (Learn Dance Challenge)
+# LDC (Learn Dance Challenge)
 -   [ldc live server](https://ldc.insiro.me)
 
 # Team Members
