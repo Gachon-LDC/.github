@@ -1,4 +1,5 @@
 # LDC (Learn Dance Challenge)
+
 -   [ldc live server](https://ldc.insiro.me)
 
 # Team Members
@@ -11,10 +12,10 @@
 | 장윤영 | [jangyyoung](https://github.com/jangyyoung) | AI                  |
 
 # Documents
--   [Document](https://github.com/Gachon-LDC/.github/wiki)
+
 -   [develop plan](https://github.com/Gachon-LDC/.github/wiki/plan)
--   [Backend](https://github.com/Gachon-LDC/Back-End/wiki)
--   [Frontend](https://github.com/Gachon-LDC/front_end/wiki)
+-   [Backend](https://github.com/Gachon-LDC/.github/wiki/doc_backend)
+-   [Frontend](https://github.com/Gachon-LDC/.github/wiki/doc_frontend)
 
 # Repositories
 
