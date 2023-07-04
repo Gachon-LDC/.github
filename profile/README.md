@@ -1,6 +1,7 @@
 # LDC (Learn Dance Challenge)
 
--   [ldc live server](https://ldc.insiro.me)
+-   ~ldc live server~ service disabled
+-   [ppt presentation](https://youtu.be/TTl6tFalaLY)
 
 # Team Members
 
